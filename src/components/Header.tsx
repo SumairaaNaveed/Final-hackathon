@@ -1,7 +1,6 @@
 
  import React from 'react';
 import { FaHeart, FaBell, FaSearch, FaCog } from 'react-icons/fa';
-import { VscSettings } from "react-icons/vsc";
 import Image from 'next/image';
 import Link from 'next/link';
 
