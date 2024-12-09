@@ -10,7 +10,7 @@ const Header = () => {
     <header className="bg-white py-4 px-4 md:px-8 shadow-md flex flex-wrap items-center justify-between">
       {/* Logo and Search Bar Container section */}
     <div className="flex items-center space-x-4 lg:space-x-20 w-full lg:w-auto">
-        {/* Logo section*/}
+    
        <div className="text-xl md:text-2xl font-bold text-blue-600">MORENT</div>
         
         {/* Search Bar section */}
