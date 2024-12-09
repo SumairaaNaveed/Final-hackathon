@@ -2,7 +2,7 @@
  import React from 'react';
 import { FaHeart, FaBell, FaSearch, FaCog } from 'react-icons/fa';
 import Image from 'next/image';
-import Link from 'next/link';
+
 
 const Header = () => {
   return (
