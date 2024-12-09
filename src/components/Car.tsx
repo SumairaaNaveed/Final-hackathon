@@ -14,6 +14,8 @@ const Hero = () => {
               backgroundPosition: 'center',
             }}
           >
+
+            
             <h2 className="text-3xl w-[272px] font-bold text-[#FFFFFF]  mb-2">
               The Best Platform for Car Rental
             </h2> <br />

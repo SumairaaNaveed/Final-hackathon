@@ -11,9 +11,9 @@ import {
 
 export default function Home() {
   return (
-      <div className="bg-[#f6f7f9] min-h-screen p-4 sm:p-6 lg:p-20 flex flex-col gap-10 font-[family-name:var(--font-geist-sans)]"> 
+      <div className="bg-[#FFFFFF] min-h-screen p-4 sm:p-6 lg:p-20 flex flex-col gap-10 font-[family-name:var(--font-geist-sans)]"> 
      {/*Section start */}
-      <section className="popular w-full flex flex-col gap-4">
+      <section className=" w-full flex flex-col gap-4">
         <div className="first w-full flex items-center justify-between">
           <h1 className="text-gray-500 text-lg sm:text-xl">Popular Car</h1>
             <h1 className="text-[#3563e9] font-bold hover:underline decoration-[#3563e9]">
